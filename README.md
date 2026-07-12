@@ -76,9 +76,8 @@
 
 ### 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mina-Magdy-mores&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mina's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mina-Magdy-mores&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mina-Magdy-mores&show_icons=true&theme=github_dark&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mina-Magdy-mores&layout=compact&theme=github_dark" width="48%" />
 </p>
-
 </div>
