@@ -1,9 +1,7 @@
-<div align="center">
-
 # ⚡ Mina Magdy Mores
 ### Back-End Developer / Full-Stack Software Engineer
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/mina-magdy-mores"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Mina-Magdy-mores"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:themastero@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -16,7 +14,7 @@
 ### 🛠️ Tech Stack & Skills
 
 #### **Back-End & Core Engineering**
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/PHP_v8.4-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel_v11%2F13-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=flat-square" />
@@ -26,7 +24,7 @@
 </p>
 
 #### **Databases & Architecture**
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Relational_DB_Design-316192?style=flat-square" />
   <img src="https://img.shields.io/badge/Pessimistic_Locking-DC382D?style=flat-square" />
@@ -35,7 +33,7 @@
 </p>
 
 #### **Ecosystem & Integrations**
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Payment_(Paymob)-2196F3?style=flat-square" />
   <img src="https://img.shields.io/badge/WebSockets_(Pusher)-708090?style=flat-square&logo=pusher&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel_Automation-1F7246?style=flat-square&logo=microsoft-excel&logoColor=white" />
@@ -44,7 +42,7 @@
 </p>
 
 #### **Front-End & DevOps**
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -52,8 +50,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
-
-</div>
 
 ---
 
@@ -103,17 +99,4 @@
     <span style="color: #30363d; margin: 0 8px;">|</span> 
     <a href="https://next-app-henna-theta.vercel.app/" style="color: #58a6ff; text-decoration: none; font-weight: bold;">🌐 Live Demo Interface</a>
   </div>
-</div>
-
----
-
-<div align="center">
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mina-Magdy-mores&show_icons=true&theme=github_dark&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mina-Magdy-mores&layout=compact&theme=github_dark" width="48%" />
-</p>
-
 </div>
