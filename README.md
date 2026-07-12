@@ -91,7 +91,7 @@ teams..
     <code>PHP</code> &bull; <code>Laravel</code> &bull; <code>MySQL</code> &bull; <code>Laravel Sanctum</code> &bull; <code>Spatie MediaLibrary</code>[cite: 2]
   </div>
   <div style="font-size: 0.9em;">
-    <a href="https://github.com/Mina-Magdy-mores" style="color: #58a6ff; text-decoration: none; font-weight: bold;">💾 GitHub Repo</a>
+    <a href="https://github.com/Mina-Magdy-mores/booking" style="color: #58a6ff; text-decoration: none; font-weight: bold;">💾 GitHub Repo</a>
   </div>
 </div>
 
@@ -105,8 +105,8 @@ teams..
     <code>Next.js 15</code> &bull; <code>React 19</code> &bull; <code>TypeScript 5</code> &bull; <code>NextAuth</code> &bull; <code>Zod</code> &bull; <code>Vercel</code>[cite: 2]
   </div>
   <div style="font-size: 0.9em;">
-    <a href="https://github.com/Mina-Magdy-mores" style="color: #58a6ff; text-decoration: none; font-weight: bold;">💾 GitHub Repo</a> 
+    <a href="https://github.com/Mina-Magdy-mores/next-app" style="color: #58a6ff; text-decoration: none; font-weight: bold;">💾 GitHub Repo</a> 
     <span style="color: #30363d; margin: 0 8px;">|</span> 
-    <a href="#" style="color: #58a6ff; text-decoration: none; font-weight: bold;">🌐 Live Demo Interface</a>
+    <a href="https://next-app-henna-theta.vercel.app/" style="color: #58a6ff; text-decoration: none; font-weight: bold;">🌐 Live Demo Interface</a>
   </div>
 </div>
