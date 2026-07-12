@@ -62,28 +62,62 @@ teams..
 </div>
 
 ---
-
 ### 🚀 Featured Projects
 
-<div align="left">
-
-#### 🏢 [HRMS Enterprise Human Resources Platform](https://github.com/Mina-Magdy-mores)
-* **Database Design:** Engineered a company-scoped relational DB architecture with strict data isolation across 50+ tables.
-* **Core Systems:** Architected a deterministic payroll calculation engine aggregating 12+ transactional variables with full ACID consistency.
-* **Automation & Security:** Developed an automated biometric fingerprint parsing pipeline and designed a 4-level hierarchical RBAC layer.
-
-<br>
-
-#### 🎫 [Booking & Event Management API Platform](https://github.com/Mina-Magdy-mores)
-* **Concurrency Control:** Utilized pessimistic database locking (`lockForUpdate()`) to entirely eliminate race conditions and overbooking.
-* **Clean Architecture:** Implemented Service-Oriented Architecture (SOA) by decoupling domain capabilities into injection-ready layers.
-* **Access Control:** Built custom RBAC middleware integrated natively with Laravel Sanctum token-based authentication.
-
-<br>
-
-#### 🛒 [Fresh Cart - Production-Grade E-Commerce SPA](https://github.com/Mina-Magdy-mores)
-* **Performance Frontend:** Built using Next.js 15 App Router architecture, featuring Streaming SSR and Suspense boundaries.
-* **Secure Auth:** Implemented stateless authentication using Next Auth.js with JWT session strategies and secure cookie handling.
-* **Data Validation:** Integrated end-to-end type-safe form validation using Zod schemas with React Hook Form.
-
-</div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <!-- الصف الأول: مشروع HRMS ومشروع Booking -->
+  <tr>
+    <td width="50%" valign="top" style="padding-right: 10px; padding-bottom: 20px;">
+      <div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; height: 100%;">
+        <h4 style="margin-top: 0; color: #58a6ff;">🏢 HRMS Enterprise Platform</h4>
+        <p style="font-size: 0.95em; color: #8b949e; margin-bottom: 12px;">
+          Engineered a company-scoped relational DB architecture with strict data isolation across 50+ tables, managing 30+ complex Eloquent relationships per employee node. Features a deterministic payroll engine with full ACID consistency and automated biometric fingerprint parsing workflows[cite: 2].
+        </p>
+        <p style="margin-bottom: 15px;">
+          <code>Laravel</code> &bull; <code>PHP 8.4</code> &bull; <code>MySQL</code> &bull; <code>Laravel-Excel</code> &bull; <code>AdminLTE</code>[cite: 2]
+        </p>
+        <div style="font-size: 0.9em;">
+          <a href="https://github.com/Mina-Magdy-mores" style="color: #58a6ff; text-decoration: none; font-weight: bold;">💾 GitHub Repo</a> 
+          <span style="color: #30363d; margin: 0 8px;">|</span> 
+          <a href="#" style="color: #58a6ff; text-decoration: none; font-weight: bold;">🌐 Live Portal</a>
+        </div>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="padding-left: 10px; padding-bottom: 20px;">
+      <div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; height: 100%;">
+        <h4 style="margin-top: 0; color: #58a6ff;">🎫 Booking & Event API Platform</h4>
+        <p style="font-size: 0.95em; color: #8b949e; margin-bottom: 12px;">
+          Utilized pessimistic database locking (<code>lockForUpdate()</code>) within atomic transactions to eliminate race conditions[cite: 2]. Implemented Service-Oriented Architecture (SOA) by decoupling domain capabilities into injection-ready layers, and built custom RBAC middleware integrated natively with Laravel Sanctum[cite: 2].
+        </p>
+        <p style="margin-bottom: 15px;">
+          <code>PHP</code> &bull; <code>Laravel</code> &bull; <code>MySQL</code> &bull; <code>Sanctum</code> &bull; <code>Spatie MediaLibrary</code>[cite: 2]
+        </p>
+        <div style="font-size: 0.9em;">
+          <a href="https://github.com/Mina-Magdy-mores" style="color: #58a6ff; text-decoration: none; font-weight: bold;">💾 GitHub Repo</a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <!-- الصف الثاني: مشروع Fresh Cart -->
+  <tr>
+    <td width="50%" valign="top" style="padding-right: 10px;">
+      <div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; height: 100%;">
+        <h4 style="margin-top: 0; color: #58a6ff;">🛒 Fresh Cart E-Commerce SPA</h4>
+        <p style="font-size: 0.95em; color: #8b949e; margin-bottom: 12px;">
+          High-performance responsive E-commerce SPA utilizing Next.js 15 App Router with Streaming SSR and Suspense[cite: 2]. Implemented stateless authentication using Next Auth.js with JWT session strategies, and end-to-end type-safe form validation using Zod with React Hook Form[cite: 2].
+        </p>
+        <p style="margin-bottom: 15px;">
+          <code>Next.js 15</code> &bull; <code>React 19</code> &bull; <code>TypeScript 5</code> &bull; <code>NextAuth</code> &bull; <code>Zod</code> &bull; <code>Vercel</code>[cite: 2]
+        </p>
+        <div style="font-size: 0.9em;">
+          <a href="https://github.com/Mina-Magdy-mores" style="color: #58a6ff; text-decoration: none; font-weight: bold;">💾 GitHub Repo</a> 
+          <span style="color: #30363d; margin: 0 8px;">|</span> 
+          <a href="#" style="color: #58a6ff; text-decoration: none; font-weight: bold;">🌐 Live Demo</a>
+        </div>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="padding-left: 10px;">
+      <!-- مساحة فارغة للحفاظ على توازن الـ Grid -->
+    </td>
+  </tr>
+</table>
