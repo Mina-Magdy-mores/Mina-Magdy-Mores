@@ -9,7 +9,7 @@
   <a href="mailto:themastero@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-> Back-End Developer with a strong foundation in Full-Stack engineering, combining intensive expertise in PHP and Laravel with high-performance Front-End capabilities in React and Next.js[cite: 1]. Adept at database architectural design, building secure RESTful APIs, and writing clean, robust code[cite: 1].
+> Back-End Developer with a strong foundation in Full-Stack engineering, combining intensive expertise in PHP and Laravel with high-performance Front-End capabilities in React and Next.js. Adept at database architectural design, building secure RESTful APIs, and writing clean, robust code.
 
 ---
 
@@ -50,34 +50,22 @@
 <div align="left">
 
 #### 🏢 [HRMS Enterprise Human Resources Platform](https://github.com/Mina-Magdy-mores)
-* **Database Design:** Engineered a company-scoped relational DB architecture with strict data isolation across 50+ tables[cite: 1].
-* **Core Systems:** Architected a deterministic payroll calculation engine aggregating 12+ transactional variables with full ACID consistency[cite: 1].
-* **Automation & Security:** Developed an automated biometric fingerprint parsing pipeline and designed a 4-level hierarchical RBAC layer[cite: 1].
+* **Database Design:** Engineered a company-scoped relational DB architecture with strict data isolation across 50+ tables.
+* **Core Systems:** Architected a deterministic payroll calculation engine aggregating 12+ transactional variables with full ACID consistency.
+* **Automation & Security:** Developed an automated biometric fingerprint parsing pipeline and designed a 4-level hierarchical RBAC layer.
 
 <br>
 
 #### 🎫 [Booking & Event Management API Platform](https://github.com/Mina-Magdy-mores)
-* **Concurrency Control:** Utilized pessimistic database locking (`lockForUpdate()`) to entirely eliminate race conditions and overbooking[cite: 1].
-* **Clean Architecture:** Implemented Service-Oriented Architecture (SOA) by decoupling domain capabilities into injection-ready layers[cite: 1].
-* **Access Control:** Built custom RBAC middleware integrated natively with Laravel Sanctum token-based authentication[cite: 1].
+* **Concurrency Control:** Utilized pessimistic database locking (`lockForUpdate()`) to entirely eliminate race conditions and overbooking.
+* **Clean Architecture:** Implemented Service-Oriented Architecture (SOA) by decoupling domain capabilities into injection-ready layers.
+* **Access Control:** Built custom RBAC middleware integrated natively with Laravel Sanctum token-based authentication.
 
 <br>
 
 #### 🛒 [Fresh Cart - Production-Grade E-Commerce SPA](https://github.com/Mina-Magdy-mores)
-* **Performance Frontend:** Built using Next.js 15 App Router architecture, featuring Streaming SSR and Suspense boundaries[cite: 1].
-* **Secure Auth:** Implemented stateless authentication using Next Auth.js with JWT session strategies and secure cookie handling[cite: 1].
-* **Data Validation:** Integrated end-to-end type-safe form validation using Zod schemas with React Hook Form[cite: 1].
+* **Performance Frontend:** Built using Next.js 15 App Router architecture, featuring Streaming SSR and Suspense boundaries.
+* **Secure Auth:** Implemented stateless authentication using Next Auth.js with JWT session strategies and secure cookie handling.
+* **Data Validation:** Integrated end-to-end type-safe form validation using Zod schemas with React Hook Form.
 
-</div>
-
----
-
-<div align="center">
-
-### 📊 GitHub Insights
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mina-Magdy-mores&show_icons=true&theme=github_dark&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mina-Magdy-mores&layout=compact&theme=github_dark" width="48%" />
-</p>
 </div>
