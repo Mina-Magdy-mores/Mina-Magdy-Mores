@@ -75,9 +75,9 @@ teams..
     <code>Laravel</code> &bull; <code>PHP 8.4</code> &bull; <code>MySQL</code> &bull; <code>Laravel-Excel</code> &bull; <code>AdminLTE</code>[cite: 2]
   </div>
   <div style="font-size: 0.9em;">
-    <a href="https://github.com/Mina-Magdy-mores" style="color: #58a6ff; text-decoration: none; font-weight: bold;">💾 GitHub Repo</a> 
+    <a href="[https://github.com/Mina-Magdy-mores](https://github.com/Mina-Magdy-mores/HRMS)" style="color: #58a6ff; text-decoration: none; font-weight: bold;">💾 GitHub Repo</a> 
     <span style="color: #30363d; margin: 0 8px;">|</span> 
-    <a href="#" style="color: #58a6ff; text-decoration: none; font-weight: bold;">🌐 Live Platform Portal</a>
+    <a href="https://hrms-production-5wyakl.laravel.cloud/admin/login" style="color: #58a6ff; text-decoration: none; font-weight: bold;">🌐 Live Platform Portal</a>
   </div>
 </div>
 
