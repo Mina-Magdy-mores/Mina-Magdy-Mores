@@ -19,13 +19,16 @@ teams..
 
 ### 🛠️ Tech Stack & Skills
 
+<div align="center">
+
 #### **Back-End & Core Engineering**
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP_v8.4-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel_v11%2F13-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=flat-square" />
   <img src="https://img.shields.io/badge/OOP_%26_SOLID-4CAF50?style=flat-square" />
   <img src="https://img.shields.io/badge/Sanctum_%2F_JWT-607D8B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Service_Layer_Isolation-9C27B0?style=flat-square" />
 </p>
 
 #### **Databases & Architecture**
@@ -34,13 +37,24 @@ teams..
   <img src="https://img.shields.io/badge/Relational_DB_Design-316192?style=flat-square" />
   <img src="https://img.shields.io/badge/Pessimistic_Locking-DC382D?style=flat-square" />
   <img src="https://img.shields.io/badge/Query_Optimization-FF9800?style=flat-square" />
+  <img src="https://img.shields.io/badge/Audit_Trails_%26_Archiving-795548?style=flat-square" />
 </p>
 
-#### **Front-End & Tools**
+#### **Ecosystem & Integrations**
+<p align="center">
+  <img src="https://img.shields.io/badge/Payment_(Paymob)-2196F3?style=flat-square" />
+  <img src="https://img.shields.io/badge/WebSockets_(Pusher)-708090?style=flat-square&logo=pusher&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel_Automation-1F7246?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spatie_MediaLibrary-E91E63?style=flat-square" />
+  <img src="https://img.shields.io/badge/Swagger_API_Docs-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+</p>
+
+#### **Front-End & DevOps**
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NextAuth_%26_Zod-FF5722?style=flat-square" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
