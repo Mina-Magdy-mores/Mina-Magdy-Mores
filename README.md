@@ -53,14 +53,12 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-</div>
-
 ---
 
 ### 🚀 Featured Projects
 
 <!-- مشروع 1: HRMS Enterprise Platform -->
-<div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 24px; margin-bottom: 16px;">
+<div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 24px; margin-bottom: 16px; text-align: center;">
   <h4 style="margin-top: 0; margin-bottom: 8px; color: #58a6ff; font-size: 1.2em;">🏢 HRMS Enterprise Human Resources Platform</h4>
   <p style="font-size: 0.95em; color: #8b949e; line-height: 1.6; margin-bottom: 12px;">
     Engineered a company-scoped relational database architecture with strict data isolation across 50+ tables, managing 30+ complex Eloquent relationships per employee node. Architected a deterministic payroll calculation engine aggregating 12+ transactional variables with full ACID consistency, alongside automated biometric fingerprint parsing pipelines.
@@ -76,7 +74,7 @@
 </div>
 
 <!-- مشروع 2: Booking API Platform -->
-<div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 24px; margin-bottom: 16px;">
+<div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 24px; margin-bottom: 16px; text-align: center;">
   <h4 style="margin-top: 0; margin-bottom: 8px; color: #58a6ff; font-size: 1.2em;">🎫 Booking & Event Management API Platform</h4>
   <p style="font-size: 0.95em; color: #8b949e; line-height: 1.6; margin-bottom: 12px;">
     Utilized pessimistic database locking (<code>lockForUpdate()</code>) within atomic database transactions to entirely eliminate race conditions and overbooking vulnerabilities. Implemented a Service-Oriented Architecture (SOA) by decoupling core domain capabilities into dedicated injection-ready layers, and built custom RBAC middleware integrated natively with Laravel Sanctum token-based authentication.
@@ -90,7 +88,7 @@
 </div>
 
 <!-- مشروع 3: Fresh Cart -->
-<div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 24px; margin-bottom: 16px;">
+<div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 24px; margin-bottom: 16px; text-align: center;">
   <h4 style="margin-top: 0; margin-bottom: 8px; color: #58a6ff; font-size: 1.2em;">🛒 Fresh Cart - Production-Grade E-Commerce SPA</h4>
   <p style="font-size: 0.95em; color: #8b949e; line-height: 1.6; margin-bottom: 12px;">
     High-performance responsive E-commerce SPA utilizing Next.js 15 App Router architecture, featuring Streaming SSR and Suspense boundaries for progressive rendering. Implemented secure, stateless authentication using Next Auth.js with JWT session strategies, and integrated end-to-end type-safe form validation using Zod schemas with React Hook Form.
@@ -103,4 +101,6 @@
     <span style="color: #30363d; margin: 0 8px;">|</span> 
     <a href="https://next-app-henna-theta.vercel.app/" style="color: #58a6ff; text-decoration: none; font-weight: bold;">🌐 Live Demo Interface</a>
   </div>
+</div>
+
 </div>
