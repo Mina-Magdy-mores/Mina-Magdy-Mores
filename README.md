@@ -1,8 +1,6 @@
-# 💫 Mina Magdy Mores
-
 <div align="center">
-  
-[![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Visitors&color=0e75b6&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+
+# Hi there, I'm <br> <span style="font-size: 3em; color: #61afef; font-weight: 800;">Mina Magdy Mores</span> 👋
 
 </div>
 
@@ -11,8 +9,14 @@
 </div>
 
 <div align="center">
-  
-### 🚀 Back-End Developer / Full-Stack Software Engineer | Building Scalable Enterprise Systems
+
+### Back-End Developer / Full-Stack Software Engineer
+
+<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 20px; max-width: 850px; margin: 20px auto; text-align: center;">
+  <p style="font-size: 1.1em; color: #ccd6f6; line-height: 1.6; margin: 0;">
+    Building modern, scalable, and high-performance applications with a strong focus on clean, robust architecture and exceptional code quality. Crafting efficient solutions with technical excellence for the future.
+  </p>
+</div>
 
 </div>
 
