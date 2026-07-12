@@ -9,7 +9,11 @@
   <a href="mailto:themastero@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-> Back-End Developer with a strong foundation in Full-Stack engineering, combining intensive expertise in PHP and Laravel with high-performance Front-End capabilities in React and Next.js. Adept at database architectural design, building secure RESTful APIs, and writing clean, robust code.
+> Back-End Developer with a strong foundation in Full-Stack engineering, combining intensive expertise in PHP and
+Laravel with high-performance Front-End capabilities in React and Next.js. Adept at database architectural design
+(MySQL), building secure RESTful APIs, and writing clean code following OOP and SOLID principles. A
+collaborative problem solver with proven ability to build and deploy robust web applications independently or within remote
+teams..
 
 ---
 
